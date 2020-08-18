@@ -4,9 +4,9 @@ def create_an_empty_array
   
 end
 
-def create_an_array(ary)
+def create_an_array
   
-  ary [X, X, X, X]
+  ary[X, X, X, X]
   
 end
 
