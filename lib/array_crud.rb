@@ -6,7 +6,7 @@ end
 
 def create_an_array
   
-  [X, X, X, X]
+  ary [X, X, X, X]
   
 end
 
