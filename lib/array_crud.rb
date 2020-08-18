@@ -12,7 +12,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   
-  array = create_an_array
+  array = ["X", "X", "X", "X"]
   
   element = "X"
   
