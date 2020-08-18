@@ -22,8 +22,6 @@ end
 
 def add_element_to_start_of_array(array, element)
   
-  array = ["X", "X", "X", "X"]
-  
   element == "wow"
   
   array.unshift(element)
