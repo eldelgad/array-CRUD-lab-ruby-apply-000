@@ -6,7 +6,7 @@ end
 
 def create_an_array
   
-  ary[X, X, X, X]
+  array["X", "X", "X", "X"]
   
 end
 
